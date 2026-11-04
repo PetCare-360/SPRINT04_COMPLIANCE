@@ -1,0 +1,5 @@
+"S/N","Test ID","Name","Description","Last Run Status","Creator","Path","Test ID (User Defined)","Scenarios","Status","Precondition","Expected Result","Comment","Links","Source","Created At","Updated At"
+"1","a3247a87-edb0-4cf8-acf9-c200ba46825c","003 Positivo - Validar visualização de detalhes das consultas marcadas do tutor","","success","Luis Guilherme Borges Silva","","","","","","","","","automated","2026-11-04 02:38:18","2026-11-04 02:46:24"
+"2","a3247a98-7bb3-4d79-840b-9f8d055a7adf","001 Negativo - Login Invalido","","success","Luis Guilherme Borges Silva","","","","","","","","","automated","2026-11-04 02:38:29","2026-11-04 02:42:15"
+"3","a3247aaa-0897-45ce-b12a-0323b9c76dc3","002 Positivo - Validar visualização dos pets cadastrados","","success","Luis Guilherme Borges Silva","","","","","","","","","automated","2026-11-04 02:38:41","2026-11-04 02:45:18"
+"4","a3247f50-5492-4d1d-aaed-ab85c14fe2fe","004 - Validar login com campos obrigatorios Copy","","success","Luis Guilherme Borges Silva","","","","","","","","","automated","2026-11-04 02:51:41","2026-11-04 02:53:00"
